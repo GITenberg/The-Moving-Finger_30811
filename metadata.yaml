@@ -1,0 +1,31 @@
+_repo: The-Moving-Finger_30811
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30811-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Oppenheim, Edward Phillips
+    - Partridge, Anthony
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: ''
+gutenberg_issued: '2009-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30811'
+  lccn: '11010641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+title: The Moving Finger
+url: http://www.gutenberg.org/ebooks/30811
